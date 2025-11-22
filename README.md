@@ -1,1 +1,1 @@
-# coding_chic_newb.me.github.io
+# coding_chic.me.github.io
